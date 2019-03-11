@@ -1,0 +1,12 @@
+   74  git clone https://github.com/imena2/Repositorio-Ignacio-Mena
+   75  git add *
+   76  git commit -m "Se subió la foto"
+   77  cd Repositorio-Ignacio-Mena
+   78  git add *
+   79  git commit -m "Se subio la foto"
+   80  git push
+   81  git add *
+   82  git commit -m "Se subió el archivo de texto"
+   83  git push
+   84  git pull
+   85  history
